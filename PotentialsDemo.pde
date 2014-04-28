@@ -50,7 +50,7 @@ void draw()
       //potentials[robot] = 0;
       dampingFactors[robot] = 0.1;
     }
-    println(potentials);
+    
   }
 }
 
